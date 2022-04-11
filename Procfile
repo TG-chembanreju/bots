@@ -1,1 +1,1 @@
-worker: python3 Pushpareju.py
+web: python3 Pushpareju.py
