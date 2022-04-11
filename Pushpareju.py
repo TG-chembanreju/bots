@@ -9,6 +9,6 @@ PyrogramBot = Client(
     bot_token="5262055140:AAFFRMcO-IQvBFzagPaMlqadQ8xLENfhtCQ",
     plugins=dict(root="PushpasBot")
 )
-
-
 PyrogramBot.run()
+
+
