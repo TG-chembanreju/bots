@@ -8,7 +8,7 @@ PyrogramBot = Client(
 
     api_id="9024035",
 
-    bot_token="5122697842:AAELdBHi56NQqew3v2x8Kv9QL9hs14YJdto",
+    bot_token="5262055140:AAFFRMcO-IQvBFzagPaMlqadQ8xLENfhtCQ",
 
     plugins=dict(root="PushpasBot")
 
